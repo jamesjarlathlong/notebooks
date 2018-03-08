@@ -22,7 +22,7 @@ Index,Node,Face,Location,aFace,aLocation,x,y,z
 21,62,B,i,B,G,-3,0,8.5
 22,63,B,j,B,L,0,0,11
 23,64,B,k,A,E,0,0,16
-24,67,B,l,B,J,-3,0,20
+24,96,B,l,B,J,-3,0,20
 25,41,C,a,D,K,-6,6,3.5
 26,42,C,b,D,F,-3,6,3.5
 27,43,C,c,C,C,-6,6,8.5
@@ -35,7 +35,7 @@ Index,Node,Face,Location,aFace,aLocation,x,y,z
 34,52,C,j,C,L,-6,0,11
 35,53,C,k,B,E,-6,0,16
 36,68,C,l,C,J,-6,3,20
-37,30,D,a,A,K,0,6,3.5
+37,95,D,a,A,K,0,6,3.5
 38,31,D,b,A,F,0,3,3.5
 39,32,D,c,D,C,0,6,8.5
 40,33,D,d,D,D,0,6,13.5
