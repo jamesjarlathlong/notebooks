@@ -11,7 +11,7 @@ nodes,aFace,aLocation,adj1,adj2,adj3,adj4,adj5,adj6,adj7,adj8
 10,A,L,AH,AG,DH,DG,DD,DC,,
 11,D,E,D1,DD,DJ,DI,DH,AJ,AI,AH
 12,D,I,DE,CE,,,,,,
-13,C,K,CF,BA,BB,BF,B2,,,
+13,C,K,CF,BA,BB,BF,,,,
 14,C,F,CA,CB,CK,BA,BB,DK,,
 15,B,C,BB,BG,CL,CG,,,,
 16,B,D,BE,BH,CL,CH,,,,
