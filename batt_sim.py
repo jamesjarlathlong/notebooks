@@ -1,8 +1,8 @@
 import sys
-#sys.path.append('/home/james/Dropbox (MIT)/All_Resourceful/dag_planner/dag-plan')
-#sys.path.append('/home/james/Dropbox (MIT)/All_Resourceful/localgateway')
-sys.path.append('../../../dag_planner/dag-plan')
-sys.path.append('/home/jjlong/localgateway')
+sys.path.append('/home/james/Dropbox (MIT)/All_Resourceful/dag_planner/dag-plan')
+sys.path.append('/home/james/Dropbox (MIT)/All_Resourceful/localgateway')
+#sys.path.append('../../../dag_planner/dag-plan')
+#sys.path.append('/home/jjlong/localgateway')
 from app.dag_solver import solve_DAG
 from app.batt_dag_solver import solve_batt_DAG
 from app.views import inted
